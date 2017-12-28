@@ -1,5 +1,5 @@
 # randomcircle
-View this project https://kumar-akash.github.io/Balls_in_the_Box_ScreenSaver/
+View this project https://kumar-akash.github.io/Balls_in_the_Box/
 
 This project is all about applying physics and mathematics in the web development through javascript and html5 canvas.
 
