@@ -1,5 +1,5 @@
-#Balls in the Box
-View this project https://kumar-akash.github.io/Balls_in_the_Box/
+
+View this project <a href = "https://kumar-akash.github.io/Balls_in_the_Box/">Click Here</a>
 
 This project is all about applying physics and mathematics in the web development through javascript and html5 canvas.
 
